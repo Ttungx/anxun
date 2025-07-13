@@ -1,0 +1,302 @@
+{
+  "categories": [
+    {
+      "id": "network_security_basics",
+      "name": "网络安全基础",
+      "description": "网络安全的基本概念和原理",
+      "icon": "🔒",
+      "resources": [
+        {
+          "title": "网络安全基础知识入门",
+          "description": "从零开始学习网络安全，了解基本概念、威胁类型和防护原理",
+          "type": "video",
+          "url": "https://www.bilibili.com/video/BV1Yh411o7Sz",
+          "source": "bilibili",
+          "duration": "45分钟",
+          "difficulty": "初级",
+          "tags": ["基础", "入门", "概念"]
+        },
+        {
+          "title": "网络协议安全分析",
+          "description": "深入理解TCP/IP协议栈的安全机制和潜在威胁",
+          "type": "video",
+          "url": "https://www.bilibili.com/video/BV1GV411k7XK",
+          "source": "bilibili",
+          "duration": "60分钟",
+          "difficulty": "中级",
+          "tags": ["协议", "TCP/IP", "分析"]
+        },
+        {
+          "title": "网络安全法律法规解读",
+          "description": "了解中国网络安全相关法律法规，提升法律意识",
+          "type": "article",
+          "url": "https://www.cert.org.cn/publish/main/46/2019/20190625175710059405015/20190625175710059405015_.html",
+          "source": "国家互联网应急中心",
+          "difficulty": "初级",
+          "tags": ["法律", "法规", "合规"]
+        }
+      ]
+    },
+    {
+      "id": "threat_detection",
+      "name": "威胁检测与分析",
+      "description": "学习如何识别和分析各种网络威胁",
+      "icon": "🔍",
+      "resources": [
+        {
+          "title": "恶意软件分析实战",
+          "description": "学习恶意软件的识别、分析和处置方法",
+          "type": "video",
+          "url": "https://www.bilibili.com/video/BV1aV411a7P4",
+          "source": "bilibili",
+          "duration": "90分钟",
+          "difficulty": "高级",
+          "tags": ["恶意软件", "逆向", "分析"]
+        },
+        {
+          "title": "网络流量分析技术",
+          "description": "掌握使用Wireshark等工具进行流量分析的技巧",
+          "type": "video",
+          "url": "https://www.bilibili.com/video/BV1Jh411B7w2",
+          "source": "bilibili",
+          "duration": "75分钟",
+          "difficulty": "中级",
+          "tags": ["流量分析", "Wireshark", "抓包"]
+        },
+        {
+          "title": "入侵检测系统(IDS)原理与实践",
+          "description": "了解IDS的工作原理和部署实践",
+          "type": "course",
+          "url": "https://www.icourse163.org/course/BUPT-1003997005",
+          "source": "中国大学MOOC",
+          "duration": "8周",
+          "difficulty": "中级",
+          "tags": ["IDS", "入侵检测", "实践"]
+        }
+      ]
+    },
+    {
+      "id": "fraud_prevention",
+      "name": "电信诈骗防护",
+      "description": "识别和防范各种电信网络诈骗",
+      "icon": "📱",
+      "resources": [
+        {
+          "title": "常见电信诈骗手段揭秘",
+          "description": "详细介绍各种电信诈骗的套路和防范方法",
+          "type": "video",
+          "url": "https://www.bilibili.com/video/BV1ht411r7nc",
+          "source": "bilibili",
+          "duration": "30分钟",
+          "difficulty": "初级",
+          "tags": ["诈骗", "防范", "识别"]
+        },
+        {
+          "title": "网络购物安全指南",
+          "description": "学习如何安全地进行网络购物，避免上当受骗",
+          "type": "article",
+          "url": "https://www.12321.cn/Uploads/file/20210315/6050f8c8a6c5e.pdf",
+          "source": "12321网络不良与垃圾信息举报受理中心",
+          "difficulty": "初级",
+          "tags": ["购物", "安全", "防骗"]
+        },
+        {
+          "title": "个人信息保护实用技巧",
+          "description": "掌握保护个人隐私和敏感信息的实用方法",
+          "type": "video",
+          "url": "https://www.bilibili.com/video/BV1Ga411j7oN",
+          "source": "bilibili",
+          "duration": "25分钟",
+          "difficulty": "初级",
+          "tags": ["隐私", "个人信息", "保护"]
+        }
+      ]
+    },
+    {
+      "id": "password_security",
+      "name": "密码与认证安全",
+      "description": "学习密码安全和身份认证的最佳实践",
+      "icon": "🔐",
+      "resources": [
+        {
+          "title": "密码安全最佳实践",
+          "description": "学习如何创建和管理强密码，使用密码管理器",
+          "type": "video",
+          "url": "https://www.bilibili.com/video/BV1Kh411o7Qs",
+          "source": "bilibili",
+          "duration": "20分钟",
+          "difficulty": "初级",
+          "tags": ["密码", "安全", "管理"]
+        },
+        {
+          "title": "双因素认证(2FA)设置指南",
+          "description": "了解并学会设置各种双因素认证方法",
+          "type": "tutorial",
+          "url": "https://help.aliyun.com/document_detail/28635.html",
+          "source": "阿里云",
+          "difficulty": "初级",
+          "tags": ["2FA", "双因素", "认证"]
+        },
+        {
+          "title": "生物识别技术安全分析",
+          "description": "深入了解指纹、人脸识别等生物识别技术的安全性",
+          "type": "video",
+          "url": "https://www.bilibili.com/video/BV1Vh411W7Kp",
+          "source": "bilibili",
+          "duration": "40分钟",
+          "difficulty": "中级",
+          "tags": ["生物识别", "指纹", "人脸识别"]
+        }
+      ]
+    },
+    {
+      "id": "incident_response",
+      "name": "应急响应与处置",
+      "description": "学习网络安全事件的应急响应流程",
+      "icon": "🚨",
+      "resources": [
+        {
+          "title": "网络安全应急响应流程",
+          "description": "了解标准的网络安全事件应急响应流程和方法",
+          "type": "course",
+          "url": "https://www.icourse163.org/course/BUPT-1206407807",
+          "source": "中国大学MOOC",
+          "duration": "6周",
+          "difficulty": "中级",
+          "tags": ["应急响应", "流程", "处置"]
+        },
+        {
+          "title": "数据泄露事件处理实战",
+          "description": "学习如何应对和处理数据泄露安全事件",
+          "type": "video",
+          "url": "https://www.bilibili.com/video/BV1Zh411d7Mx",
+          "source": "bilibili",
+          "duration": "50分钟",
+          "difficulty": "高级",
+          "tags": ["数据泄露", "事件处理", "实战"]
+        },
+        {
+          "title": "网络攻击取证技术",
+          "description": "掌握网络攻击的数字取证和证据保全技术",
+          "type": "video",
+          "url": "https://www.bilibili.com/video/BV1Yh411o7Kx",
+          "source": "bilibili",
+          "duration": "65分钟",
+          "difficulty": "高级",
+          "tags": ["取证", "证据", "攻击分析"]
+        }
+      ]
+    },
+    {
+      "id": "campus_security",
+      "name": "校园网络安全",
+      "description": "专门针对校园网络环境的安全知识",
+      "icon": "🏫",
+      "resources": [
+        {
+          "title": "校园网安全管理规范",
+          "description": "了解校园网络的安全管理制度和使用规范",
+          "type": "document",
+          "url": "https://www.edu.cn/xxh/focus/zc_1707/201709/t20170925_1555466.shtml",
+          "source": "中国教育和科研计算机网",
+          "difficulty": "初级",
+          "tags": ["校园网", "管理", "规范"]
+        },
+        {
+          "title": "学生网络安全意识培训",
+          "description": "针对大学生的网络安全意识培训课程",
+          "type": "video",
+          "url": "https://www.bilibili.com/video/BV1Kh411o7Qs",
+          "source": "bilibili",
+          "duration": "35分钟",
+          "difficulty": "初级",
+          "tags": ["学生", "意识培训", "校园"]
+        },
+        {
+          "title": "校园网络攻击案例分析",
+          "description": "分析真实的校园网络安全事件案例",
+          "type": "video",
+          "url": "https://www.bilibili.com/video/BV1Vh411W7Kp",
+          "source": "bilibili",
+          "duration": "45分钟",
+          "difficulty": "中级",
+          "tags": ["案例分析", "校园攻击", "实例"]
+        }
+      ]
+    }
+  ],
+  "featured_resources": [
+    {
+      "title": "2024年网络安全威胁报告",
+      "description": "最新的网络安全威胁趋势和防护建议",
+      "type": "report",
+      "url": "https://www.cert.org.cn/publish/main/46/2024/20240315175710059405015/20240315175710059405015_.html",
+      "source": "国家互联网应急中心",
+      "category": "威胁情报",
+      "difficulty": "中级",
+      "featured": true
+    },
+    {
+      "title": "网络安全实验室在线平台",
+      "description": "提供在线的网络安全实验环境和练习",
+      "type": "platform",
+      "url": "https://www.hetianlab.com/",
+      "source": "合天网安实验室",
+      "category": "实践平台",
+      "difficulty": "中级",
+      "featured": true
+    },
+    {
+      "title": "电信网络诈骗防范指南",
+      "description": "全面的电信诈骗识别和防范实用手册",
+      "type": "guide",
+      "url": "https://www.12321.cn/fraud-prevention-guide",
+      "source": "12321举报中心",
+      "category": "诈骗防护",
+      "difficulty": "初级",
+      "featured": true
+    }
+  ],
+  "quick_tips": [
+    {
+      "title": "强密码设置技巧",
+      "content": "使用至少12位字符，包含大小写字母、数字和特殊符号，避免使用个人信息",
+      "icon": "🔑"
+    },
+    {
+      "title": "识别钓鱼邮件",
+      "content": "检查发件人地址、链接URL、语法错误，谨慎点击附件和链接",
+      "icon": "📧"
+    },
+    {
+      "title": "安全上网习惯",
+      "content": "定期更新软件、使用正版软件、开启防火墙、谨慎下载文件",
+      "icon": "🌐"
+    },
+    {
+      "title": "WiFi安全使用",
+      "content": "避免连接不明WiFi，使用VPN保护隐私，关闭自动连接功能",
+      "icon": "📶"
+    }
+  ],
+  "emergency_contacts": [
+    {
+      "name": "国家网络与信息安全信息通报中心",
+      "phone": "010-82991537",
+      "website": "https://www.cert.org.cn/",
+      "description": "国家级网络安全事件报告和处置"
+    },
+    {
+      "name": "12321网络不良与垃圾信息举报中心",
+      "phone": "12321",
+      "website": "https://www.12321.cn/",
+      "description": "举报垃圾短信、诈骗电话、恶意网站"
+    },
+    {
+      "name": "全国反诈骗专用号码",
+      "phone": "96110",
+      "website": "https://www.mps.gov.cn/",
+      "description": "预警劝阻电信网络诈骗"
+    }
+  ]
+}

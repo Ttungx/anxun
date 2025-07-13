@@ -1,0 +1,11 @@
+flask==2.3.3
+flask-cors==4.0.0
+requests==2.31.0
+pyshark==0.6
+pandas==2.0.3
+numpy==1.24.3
+json5==0.9.14
+python-dateutil==2.8.2
+psutil==5.9.5
+networkx==3.1
+scapy==2.5.0
